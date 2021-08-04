@@ -1,4 +1,3 @@
-import requests # gets the data from API
 from pymongo import MongoClient
 import json
 import bcrypt
